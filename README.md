@@ -14,6 +14,9 @@ Açıklama ekleyin, ardından öncelik seviyesini seçin.
 Görevi tamamladığınızda, ilgili notu seçerek "Tamamlananlar" sayfasına taşıyabilirsiniz.
 
 Ekran Görüntüleri
+
 ![mainactivity](https://github.com/M-SYK/M_SYK-ToDoList/assets/92882254/e82be335-555a-46db-944d-8285325398df)
+
 ![noteslist](https://github.com/M-SYK/M_SYK-ToDoList/assets/92882254/b0309691-4257-4d8a-9785-028772f91dc3)
+
 ![completedlist](https://github.com/M-SYK/M_SYK-ToDoList/assets/92882254/07ceb24c-d71b-4fd5-afce-945d6f64678a)
