@@ -1,5 +1,5 @@
 Not Tutma Uygulaması
-Bu Kotlin tabanlı not tutma uygulaması, kullanıcının görevleri düzenlemesine ve önceliklendirmesine yardımcı olur. Görevler, "Low", "Medium" ve "High" olmak üzere üç farklı öncelik seviyesine sahiptir. Kullanıcı, bir görevi tamamladığında, ilgili notu seçerek tamamlananlar sayfasına taşıyabilir.
+Bu Kotlin tabanlı not tutma uygulaması, kullanıcının görevleri düzenlemesine ve önceliklendirmesine yardımcı olur. Görevler, "Low", "Medium" ve "High" olmak üzere üç farklı öncelik seviyesine sahiptir. Kullanıcı, bir görevi tamamladığında, ilgili notu seçerek tamamlananlar sayfasına taşıyabilir.Notlar Firebase de tutulmaktadır.
 
 Özellikler
 Görevlerinizi ekleyebilir, düzenleyebilir ve silebilirsiniz.
