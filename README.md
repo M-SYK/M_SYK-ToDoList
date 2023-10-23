@@ -1,19 +1,19 @@
-Not Tutma Uygulaması
+# Not Tutma Uygulaması
 Bu Kotlin tabanlı not tutma uygulaması, kullanıcının görevleri düzenlemesine ve önceliklendirmesine yardımcı olur. Görevler, "Low", "Medium" ve "High" olmak üzere üç farklı öncelik seviyesine sahiptir. Kullanıcı, bir görevi tamamladığında, ilgili notu seçerek tamamlananlar sayfasına taşıyabilir.Notlar Firebase de tutulmaktadır.
 
-Özellikler
+## Özellikler
 Görevlerinizi ekleyebilir, düzenleyebilir ve silebilirsiniz.
 Görevlere öncelik seviyeleri atayabilirsiniz: "Low", "Medium" ve "High".
 Tamamlanan görevleri ayrı bir sayfada görüntüleyebilirsiniz.
 
 
-Kullanım
+## Kullanım
 Uygulamayı başlatın.
 "Yeni Görev Ekle" düğmesine tıklayarak yeni bir görev ekleyin.
 Açıklama ekleyin, ardından öncelik seviyesini seçin.
 Görevi tamamladığınızda, ilgili notu seçerek "Tamamlananlar" sayfasına taşıyabilirsiniz.
 
-Ekran Görüntüleri
+## Ekran Görüntüleri
 
 ![mainactivity](https://github.com/M-SYK/M_SYK-ToDoList/assets/92882254/e82be335-555a-46db-944d-8285325398df)
 
